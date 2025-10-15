@@ -14,8 +14,11 @@ CALCULA-TEA
 ===============
 
 Type the operation:
+
 Symbols: "+  -  *  / ( )"
+
 Example: 12.5+3*4/(2-1)
+
 Press enter to calculate.
 
 Type "Q" to quit.
