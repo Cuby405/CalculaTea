@@ -25,7 +25,9 @@ Type "Q" to quit.
 Operation: 12.5+3*4/(2-1)
 
 ==============================
+
 Resultado:  24,5
+
 ==============================
 
 Type any key to continue...
